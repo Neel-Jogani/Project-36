@@ -1,2 +1,1 @@
-# Project-36
-Virtual dog
+# Virtual Dog
